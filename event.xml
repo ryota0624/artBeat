@@ -1,0 +1,425 @@
+<?xml version="1.0"?>
+<Events>
+ <Event xml:lang="ja" id="2016/6309" href="http://www.tokyoartbeat.com/event/2016/6309">
+  <Name>鈴木紗也香 「SHINE」</Name>
+  <Venue href="http://www.tokyoartbeat.com/venue/93D41DD7">
+    <Name>第一生命ギャラリー</Name>
+    <Type>ギャラリー</Type>
+    <Address>〒100-8411　東京都千代田区有楽町1-13-1</Address>
+    <Phone>050-3780-5776</Phone>
+    <Fax></Fax>
+    <Access>地下鉄有楽町駅より徒歩1分、地下鉄日比谷駅より徒歩2分、JR有楽町駅より徒歩2分</Access>
+    <Area areaId="ginza_marunouchi">銀座、丸の内</Area>
+    <OpeningHour>12:00:00</OpeningHour>
+    <ClosingHour>17:00:00</ClosingHour>
+    <DaysClosed mon="0" tue="0" wed="0" thu="0" fri="0" sat="1" sun="1" hol="1" />
+    <ScheduleDetails></ScheduleDetails>
+    <ScheduleNote></ScheduleNote>
+  </Venue>
+  <Media>2D: 絵画</Media>
+  <Media>参加型: パーティー</Media>
+  <Description><![CDATA[第一生命は、企業メセナ活動の一環として、現代美術の展覧会「VOCA(ヴォーカ)展(The Vision of Contemporary Art)－現代美術の展望」の受賞作品を所蔵し、第一生命ギャラリーで常設展として公開しております。また、年に数回、VOCA展受賞作家の個展を開催し、作家の方には発表の場を、一般の方々には現代美術鑑賞の場を提供しています。
+今回は「VOCA展2013」VOCA賞受賞者、鈴木紗也香の個展を開催します。
+新作の291 × 448 cmからなる大作「木漏れ日は彼女の肌にくちづけする」(2016)や、修了制作作品かつ未発表である「靴擦れ」(2014年)を中心に、新作・旧作の作品を展示します。従来の窓や鏡、画中画をテーマに室内風景を描いたタブロー作品と共に、「SHINE」をテーマに様々な風景を、ドローイング的感覚を持って描いた小品を約40点ほど一面に展示し、ギャラリー空間の中で内と外の対比・交わる関係をつくる試みを行います。
+
+[関連イベント]
+オープニングレセプション
+日時: 10月14日(金)17:00～19:00]]></Description>
+  <Image src="http://www.tokyoartbeat.com/media/event/2016/6309-30" width="30" />
+  <Image src="http://www.tokyoartbeat.com/media/event/2016/6309-80" width="80" />
+  <Image src="http://www.tokyoartbeat.com/media/event/2016/6309-170" width="170" />
+  <Karma>4.97738</Karma>
+  <Price free="1">無料</Price>
+  <DateStart>2016-10-14</DateStart>
+  <DateEnd>2016-11-25</DateEnd>
+  <ScheduleNote></ScheduleNote>
+ <Party type="1" date="2016-10-14" start="17:00:00" end="19:00:00">オープニングパーティー</Party>
+ <DaysBeforeEnd>28</DaysBeforeEnd>
+  <PermanentEvent>0</PermanentEvent>
+  <Distance>187.56943113426</Distance>
+  <Datum>world</Datum>
+  <Latitude>35.675830354426</Latitude>
+  <Longitude>139.76083813037</Longitude>
+ </Event>
+
+ <Event xml:lang="ja" id="2016/1F20" href="http://www.tokyoartbeat.com/event/2016/1F20">
+  <Name>「大仙厓展 - 禅の心、ここに集う - 」</Name>
+  <Venue href="http://www.tokyoartbeat.com/venue/7E2BBA1A">
+    <Name>出光美術館</Name>
+    <Type>美術館</Type>
+    <Address>〒100-0005  東京都千代田区丸の内3-1-1　帝劇ビル9階</Address>
+    <Phone>03-5777-8600</Phone>
+    <Fax></Fax>
+    <Access>有楽町駅国際フォーラム口より徒歩5分、日比谷駅帝劇方面出口より徒歩5分</Access>
+    <Area areaId="ginza_marunouchi">銀座、丸の内</Area>
+    <OpeningHour>10:00:00</OpeningHour>
+    <ClosingHour>17:00:00</ClosingHour>
+    <DaysClosed mon="1" tue="0" wed="0" thu="0" fri="0" sat="0" sun="0" hol="0" />
+    <ScheduleDetails>fridays closinghour 19:00</ScheduleDetails>
+    <ScheduleNote>月曜日が祝日の場合は開館</ScheduleNote>
+  </Venue>
+  <Media>2D: 絵画</Media>
+  <Description><![CDATA[笑いとユーモアを通して禅の教えをひろめたことで知られる江戸時代の禅僧仙厓(1750-1837)。その書画作品は住持をつとめた博多の聖福寺や隠居所であった虚白院のある幻住庵以外では、当館の初代館長出光佐三が蒐集したコレクションと、仙厓ゆかりの地にある福岡市美術館のコレクション、さらに九州大学文学部コレクション(中山森彦旧蔵)が質量ともにすぐれ、よく知られています。昭和61年(1986)に仙厓150年遠諱を記念して福岡市美術館で開催された展覧会以来、実に30年ぶりに東西の三大コレクションの名品が当館に勢揃いします。仙厓の生み出した禅画の世界、そして、人々に説いた禅の心にふれるまたとない機会となる本展を、どうぞご期待ください。]]></Description>
+  <Image src="http://www.tokyoartbeat.com/media/event/2016/1F20-30" width="30" />
+  <Image src="http://www.tokyoartbeat.com/media/event/2016/1F20-80" width="80" />
+  <Image src="http://www.tokyoartbeat.com/media/event/2016/1F20-170" width="170" />
+  <Karma>7.12299</Karma>
+  <Price free="0">一般 1000円、大学生・高校生 700円、中学生以下 無料（ただし保護者の同伴が必要です）</Price>
+  <DateStart>2016-10-01</DateStart>
+  <DateEnd>2016-11-13</DateEnd>
+  <ScheduleNote></ScheduleNote>
+  <DaysBeforeEnd>16</DaysBeforeEnd>
+  <PermanentEvent>0</PermanentEvent>
+  <Distance>266.85722346831</Distance>
+  <Datum>world</Datum>
+  <Latitude>35.676727263888</Latitude>
+  <Longitude>139.76114706341</Longitude>
+ </Event>
+
+ <Event xml:lang="ja" id="2016/0B01" href="http://www.tokyoartbeat.com/event/2016/0B01">
+  <Name>ミシェル・ブラジー 「リビングルームII」</Name>
+  <Venue href="http://www.tokyoartbeat.com/venue/52276C8D">
+    <Name>メゾンエルメス</Name>
+    <Type>店・デパート</Type>
+    <Address>〒104-0061 東京都中央区銀座5-4-1</Address>
+    <Phone>03-3569-3611</Phone>
+    <Fax></Fax>
+    <Access>東京メトロ銀座線、丸ノ内線、日比谷線銀座駅B7出口すぐ</Access>
+    <Area areaId="ginza_marunouchi">銀座、丸の内</Area>
+    <OpeningHour>11:00:00</OpeningHour>
+    <ClosingHour>20:00:00</ClosingHour>
+    <DaysClosed mon="0" tue="0" wed="0" thu="0" fri="0" sat="0" sun="0" hol="0" />
+    <ScheduleDetails>sundays closinghour 19:00</ScheduleDetails>
+    <ScheduleNote>奇数月の第三水曜日は休館</ScheduleNote>
+  </Venue>
+  <Media>3D: 彫刻・立体</Media>
+  <Media>3D: インスタレーション</Media>
+  <Description><![CDATA[1966年、モナコ生まれのフランス人作家、ミシェル・ブラジーは初期から一貫して、植物、野菜、果物、昆虫、微生物などを取り込みながら、身の回りの自然に息づく美と醜、生命のサイクルをありのままに、また詩的に問う作品を制作してきました。フランスの主要な美術館での個展をはじめ、これまで各国で数多くの展覧会に参加していますが、日本では初の個展開催となります。
+時間とともに移り変わる生成の過程そのものを見せるブラジーの作品は、完成したフォルムをもちません。生活者によるささやかな実験室さながら、キッチンやベランダでの野菜の発芽や育成、あるいは腐敗といった現象の増長を試みます。寒天のひび割れと剥離によって描かれる生きた壁画や、積み上げられたオレンジの皮が、数ヶ月の間に朽ちていく様子を見せる作品などは、現代のヴァニタスとして無常を描くとともに、見慣れたものに息づいている時間の流れ、予期しない色彩やフォルムを取り出してみせます。ブラジーの宇宙では、カタツムリやねずみといった動物たちも、時に共同作業を担います。衛生を重んじる生活環境の中で排除されがちなこれらの生きものたちは、新たな役割を得て、実に雄弁に振舞います。また、文明が生み出した物質も共存します。既製品として流通しているものたちは、人間の一生よりも長い時間を持ちながらも、経済の流れの中で短い寿命を設定されます。型落ちした家電製品に植物を寄生させるシリーズでは、商品のライフサイクルと自然本来の時間を対比させながら、文明や存在のはかなさや逞しさをユーモラスに描き出しています。
+本展のタイトルとなった「リビングルーム」は、住居におけるくつろぎの場を表すと同時に、生命が絶え間なく変化する空間を喚起する言葉でもあります。クリーンで静的なギャラリースペースへの批判も込められたブラジーの実験室は、私たちの文明が快適さのもとに排除しがちな風景にも対等なまなざしを向けるのです。
+
+[関連イベント]
+トークイベント「自然は無限のデザイン・リソース」
+生物学者であり、大のフェルメール好きとしても知られるなど芸術への造詣も深い福岡伸一氏が、その独自の視点から、芸術と科学について、そしてブラジーの作品について語ります。
+日時: 11月7日(月)19:00～21:00
+19:00～　キュレーターによるギャラリーツアー
+19:30～　福岡伸一教授によるスペシャルトーク
+会場: 銀座メゾンエルメス　ル・ステュディオ
+講師: 福岡伸一(青山学院大学教授・米国ロックフェラー大学客員教授)
+定員: 40名
+※お申し込み方法は公式ホームページよりご確認ください。]]></Description>
+  <Image src="http://www.tokyoartbeat.com/media/event/2016/0B01-30" width="30" />
+  <Image src="http://www.tokyoartbeat.com/media/event/2016/0B01-80" width="80" />
+  <Image src="http://www.tokyoartbeat.com/media/event/2016/0B01-170" width="170" />
+  <Karma>19.4886</Karma>
+  <Price free="1">無料</Price>
+  <DateStart>2016-09-16</DateStart>
+  <DateEnd>2016-11-27</DateEnd>
+  <ScheduleNote></ScheduleNote>
+  <DaysBeforeEnd>30</DaysBeforeEnd>
+  <PermanentEvent>0</PermanentEvent>
+  <Distance>300.73255350147</Distance>
+  <Datum>world</Datum>
+  <Latitude>35.672024808299</Latitude>
+  <Longitude>139.76351908293</Longitude>
+ </Event>
+
+ <Event xml:lang="ja" id="2016/A0DE" href="http://www.tokyoartbeat.com/event/2016/A0DE">
+  <Name>無印良品 有楽町 ATELIER MUJI 「再発見 再創造 Found MUJI」展</Name>
+  <Venue href="http://www.tokyoartbeat.com/venue/E7C4D807">
+    <Name>ATELIER MUJI</Name>
+    <Type>店・デパート</Type>
+    <Address>〒100-0005 東京都千代田区丸の内3-8-3 インフォス有楽町 無印良品有楽町店2F</Address>
+    <Phone>03-5208-8241</Phone>
+    <Fax></Fax>
+    <Access>JR山手線・京浜東北線有楽町駅京橋口より徒歩2分、東京メトロ有楽町線有楽町駅D9出口より徒歩2分</Access>
+    <Area areaId="ginza_marunouchi">銀座、丸の内</Area>
+    <OpeningHour>10:00:00</OpeningHour>
+    <ClosingHour>21:00:00</ClosingHour>
+    <DaysClosed mon="0" tue="0" wed="0" thu="0" fri="0" sat="0" sun="0" hol="0" />
+    <ScheduleDetails></ScheduleDetails>
+    <ScheduleNote>不定休</ScheduleNote>
+  </Venue>
+  <Media>3D: プロダクト</Media>
+  <Media>3D: 工芸</Media>
+  <Media>参加型: トーク</Media>
+  <ExternalLink href="http://www.muji.com/jp/events/4073/" />
+  <Description><![CDATA[さりげなく、なにげなく、人のくらしに自然と寄り添う日用品を求めて、日本のみならず世界を旅するFound MUJI。無印良品が西友のプライベートブランドとして日本に誕生した時から、この活動は始まりました。そして2011年に無印良品1号店が「Found MUJI青山」としてリニューアルし、世界各地の店舗にもその売り場が広がっています。
+私たちの探し物は、日常のくらしの中で見過ごされがちな、変哲無く優れた品々です。ごくふつうの道具でありながら、どこの地でもしっくりとくる機能と飽きのこない美しさを備えています。Found MUJIでは、こうして見いだした生活用品のつくり手と一緒に、昔からあったごとく自然に、そして社会や時代や地域を越えて人のくらしに根ざすものづくりに携わってきました。
+本展では、未来を見据えたこの活動の、1980年から2016年までの軌跡をご紹介します。そしてこれからも無印良品が考える「感じ良いくらし」を目指して、Found MUJIは再発見と再創造を続けていきます。
+[関連イベント]
+トークイベント「Found MUJI、地上の無印良品を探す旅」
+珍しさに目を奪われることなく、その地に住まう人々の暮らしに目を凝らし、その無造作な魅力を商品で伝えるFound MUJI。その活動を命名し自らかかわるデザイナーが語ります。
+日時: 11月5日(土) 8:30～9:30
+参加費: 無料
+登壇者: 深澤直人(プロダクトデザイナー／無印良品アドバイザリーボード)、矢野直子(株式会社良品計画 生活雑貨部 企画デザイン室 室長)
+申込方法: WEB事前申込]]></Description>
+  <Image src="http://www.tokyoartbeat.com/media/event/2016/A0DE-30" width="30" />
+  <Image src="http://www.tokyoartbeat.com/media/event/2016/A0DE-80" width="80" />
+  <Image src="http://www.tokyoartbeat.com/media/event/2016/A0DE-170" width="170" />
+  <Karma>0.975235</Karma>
+  <Price free="1">無料</Price>
+  <DateStart>2016-10-21</DateStart>
+  <DateEnd>2016-11-27</DateEnd>
+  <ScheduleNote></ScheduleNote>
+  <DaysBeforeEnd>30</DaysBeforeEnd>
+  <PermanentEvent>0</PermanentEvent>
+  <Distance>318.62311464003</Distance>
+  <Datum>world</Datum>
+  <Latitude>35.675901419797</Latitude>
+  <Longitude>139.76501578014</Longitude>
+ </Event>
+
+ <Event xml:lang="ja" id="2016/D331" href="http://www.tokyoartbeat.com/event/2016/D331">
+  <Name>「Demythifying Japanese Women Artists - 女たちは神話をほどく - 」</Name>
+  <Venue href="http://www.tokyoartbeat.com/venue/98FBA704">
+    <Name>NUKAGA GALLERY</Name>
+    <Type>ギャラリー</Type>
+    <Address>〒104-0061 東京都中央区銀座2-3-2</Address>
+    <Phone>03-5524-5544</Phone>
+    <Fax>03-5524-5543</Fax>
+    <Access>東京メトロ有楽町線銀座一丁目駅4番出口より徒歩1分、JR山手線・京浜東北線・東京メトロ有楽町線有楽町駅中央口・D8出口より徒歩2分、東京メトロ丸の内線・銀座線・日比谷線銀座駅C8出口より徒歩4分</Access>
+    <Area areaId="ginza_marunouchi">銀座、丸の内</Area>
+    <OpeningHour>10:30:00</OpeningHour>
+    <ClosingHour>18:30:00</ClosingHour>
+    <DaysClosed mon="0" tue="0" wed="0" thu="0" fri="0" sat="0" sun="1" hol="1" />
+    <ScheduleDetails></ScheduleDetails>
+    <ScheduleNote>土曜日は休館の場合あり</ScheduleNote>
+  </Venue>
+  <Media>2D: 絵画</Media>
+  <Media>参加型: パーティー</Media>
+  <ExternalLink href="http://www.nukaga.co.jp/exhibitions.html" />
+  <Description><![CDATA[この展覧会ではDemythify（脱神話化）という言葉に込めたように、加熱するアートマーケットで高騰を続ける草間彌生、田中敦子、名坂有子という作家の本質的な価値を問い直し、彼女達より約20歳年長で先駆的・ユニークなアーティスト桂ゆきと共に展示することにより、日本の前衛女性アーティストの活動の多様性、豊饒さを再発見します。本展開催に向け、市場に流通することが希な桂ゆきの大作や、草間彌生の初期作品、田中敦子の未発表作品や名坂有子の海外展示作品など、貴重な作品を集めました。]]></Description>
+  <Image src="http://www.tokyoartbeat.com/media/event/2016/D331-30" width="30" />
+  <Image src="http://www.tokyoartbeat.com/media/event/2016/D331-80" width="80" />
+  <Image src="http://www.tokyoartbeat.com/media/event/2016/D331-170" width="170" />
+  <Karma>9.69697</Karma>
+  <Price free="1">無料</Price>
+  <DateStart>2016-10-12</DateStart>
+  <DateEnd>2016-11-02</DateEnd>
+  <ScheduleNote>開館時間: 10:00~18:00、日曜休館</ScheduleNote>
+ <Party type="1" date="2016-10-12" start="17:00:00" end="">オープニングパーティー</Party>
+ <DaysBeforeEnd>5</DaysBeforeEnd>
+  <PermanentEvent>0</PermanentEvent>
+  <Distance>399.16540142854</Distance>
+  <Datum>world</Datum>
+  <Latitude>35.674644578438</Latitude>
+  <Longitude>139.76640172291</Longitude>
+ </Event>
+
+ <Event xml:lang="ja" id="2016/619B" href="http://www.tokyoartbeat.com/event/2016/619B">
+  <Name>「有田焼創業400年記念 柿右衛門の世界 - 受け継がれる技と美 - 」</Name>
+  <Venue href="http://www.tokyoartbeat.com/venue/013F9F0E">
+    <Name>和光ホール</Name>
+    <Type>店・デパート</Type>
+    <Address>〒104-8105 東京都中央区銀座4-5-11</Address>
+    <Phone>03-3562-2111</Phone>
+    <Fax></Fax>
+    <Access>地下鉄銀座駅A10出口より徒歩1分</Access>
+    <Area areaId="ginza_marunouchi">銀座、丸の内</Area>
+    <OpeningHour>10:30:00</OpeningHour>
+    <ClosingHour>19:00:00</ClosingHour>
+    <DaysClosed mon="0" tue="0" wed="0" thu="0" fri="0" sat="0" sun="0" hol="0" />
+    <ScheduleDetails></ScheduleDetails>
+    <ScheduleNote>最終日は17：00まで</ScheduleNote>
+  </Venue>
+  <Media>3D: 陶芸</Media>
+  <Media>参加型: トーク</Media>
+  <ExternalLink href="http://www.wako.co.jp/exhibitions/516" />
+  <Description><![CDATA[400年の歴史を刻む日本有数のやきもの有田焼を代表する柿右衛門窯の全容に触れる、和光で初の展覧会を開きます。有田焼は東インド会社を通じてヨーロッパに輸出され、マイセン窯をはじめ、数々の模倣品が出現したほど人々を魅了しました。なかでも柿右衛門の作品は優雅で明るい色絵が魅力。その色絵がもっとも映える「濁手（にごしで）」という乳白色の素地を初期の柿右衛門が完成。一旦は途絶え、十二代と十三代が試行錯誤して復活。その技術は後に国の重要無形文化財（総合）に指定され、現代へと継承されています。2年前に襲名した十五代 酒井田柿右衛門氏は「我々は自然から生まれた物だけで器を作っています。可能な限り昔からの原材料を使うことにこだわりたいのです。今後も、高い技術力を維持して、人々の暮らしに寄り添う食器作りを基本に据えていきたいと考えています」と言います。当代である十五代 柿右衛門の瑞々しい感性に溢れた花器や香炉、ぐい呑など約50点、品格に満ちた伝統に則った柿右衛門窯の食器を中心にした約100点、柿右衛門窯の歴史的背景がわかる歴代の作品も展示。「柿右衛門の軌跡を追っていただくことで有田焼400年の流れを、さらには活気に溢れていた当時の有田の雰囲気をも体感していただけたらと願っています」。秋の銀座で、有田のおおらかな風土に思いを馳せ、至高の磁器を満喫していただけます。
+[関連イベント]
+ギャラリートーク
+ゲスト: 十五代 酒井田柿右衛門
+日時: 10月23日（日）14：00~
+※関連イベント詳細は公式ホームページよりご確認ください。]]></Description>
+  <Image src="http://www.tokyoartbeat.com/media/event/2016/619B-30" width="30" />
+  <Image src="http://www.tokyoartbeat.com/media/event/2016/619B-80" width="80" />
+  <Image src="http://www.tokyoartbeat.com/media/event/2016/619B-170" width="170" />
+  <Karma>0</Karma>
+  <Price free="1">無料</Price>
+  <DateStart>2016-10-21</DateStart>
+  <DateEnd>2016-10-30</DateEnd>
+  <ScheduleNote></ScheduleNote>
+  <DaysBeforeEnd>2</DaysBeforeEnd>
+  <PermanentEvent>0</PermanentEvent>
+  <Distance>415.47282069884</Distance>
+  <Datum>world</Datum>
+  <Latitude>35.67164687569</Latitude>
+  <Longitude>139.76506297211</Longitude>
+ </Event>
+
+ <Event xml:lang="ja" id="2016/F520" href="http://www.tokyoartbeat.com/event/2016/F520">
+  <Name>「第15回写真 1_WALL展」</Name>
+  <Venue href="http://www.tokyoartbeat.com/venue/FC341ED2">
+    <Name>ガーディアン・ガーデン</Name>
+    <Type>ギャラリー</Type>
+    <Address>〒104-0061　東京都中央区銀座7-3-5 　リクルートGINZA7ビル　B1F 　</Address>
+    <Phone>03-5568-8818</Phone>
+    <Fax>03-5568-0512</Fax>
+    <Access>地下鉄銀座駅出口C2より徒歩5分、JR有楽町駅銀座口より徒歩8分  JR新橋駅・地下鉄銀座線新橋駅銀座口より徒歩５分</Access>
+    <Area areaId="ginza_marunouchi">銀座、丸の内</Area>
+    <OpeningHour>11:00:00</OpeningHour>
+    <ClosingHour>19:00:00</ClosingHour>
+    <DaysClosed mon="0" tue="0" wed="0" thu="0" fri="0" sat="0" sun="1" hol="1" />
+    <ScheduleDetails></ScheduleDetails>
+    <ScheduleNote></ScheduleNote>
+  </Venue>
+  <Media>2D: 写真</Media>
+  <ExternalLink href="http://rcc.recruit.co.jp/gg/exhibition/gg_wall_ph_201610/gg_wall_ph_201610.html" />
+  <Description><![CDATA[本展は、ポートフォリオ審査による一次審査と、一対一で審査員と対話する二次審査を通過したファイナリスト 6名が、一人一壁面を使って作品を発表するグループ展です。会期中10月31日(月)には、一般見学者にも公開される最終審査会を開催します。今回は、独自の視点で自らの世界観を表現した作品が多く集まりました。
+出会った人々をまっすぐな眼差しで撮影したこれまでの写真を&quot;私の混乱の記録&quot;としてまとめたアンポンタン・裸漢。街中でのスナップ撮影では個人が特定できないように写しながら大胆な構図で決定的瞬間を撮る遠藤祐輔。新聞や官報、警察のウェブサイトで公開されている身元不明の遺体に関する断片的な情報から作り上げた架空のポートレートの木原結花。自身の住む街にある動物園の年老いた象との出会いから最期までを記録した田中大輔。亡き父に幼い頃もらったカメラで生まれ育った台湾、現在暮らす日本での家族の暮らしを写した富澤大輔。カメラや写真を売って手に入れたバイクで、アメリカの故郷に旅した12,000kmを記録した作品のラッセル・スコット・ピーグラー。以上の6名が展示をします。
+[関連イベント]
+公開最終審査会
+日時: 10月31日(月)18:00〜21:00
+予約制（9月30日(金)から受付開始。満席になり次第締め切り）
+※詳細は公式サイトよりご確認ください。
+]]></Description>
+  <Image src="http://www.tokyoartbeat.com/media/event/2016/F520-30" width="30" />
+  <Image src="http://www.tokyoartbeat.com/media/event/2016/F520-80" width="80" />
+  <Image src="http://www.tokyoartbeat.com/media/event/2016/F520-170" width="170" />
+  <Karma>5.91103</Karma>
+  <Price free="1">無料</Price>
+  <DateStart>2016-10-25</DateStart>
+  <DateEnd>2016-11-18</DateEnd>
+  <ScheduleNote></ScheduleNote>
+  <DaysBeforeEnd>21</DaysBeforeEnd>
+  <PermanentEvent>0</PermanentEvent>
+  <Distance>430.05733259692</Distance>
+  <Datum>world</Datum>
+  <Latitude>35.670666907449</Latitude>
+  <Longitude>139.76088036459</Longitude>
+ </Event>
+
+ <Event xml:lang="ja" id="2016/8D76" href="http://www.tokyoartbeat.com/event/2016/8D76">
+  <Name>「ベスト・オブ・モノクローム - ファインプリントに会う至福の刻 - 」</Name>
+  <Venue href="http://www.tokyoartbeat.com/venue/C17B4DBA">
+    <Name>リコーイメージングスクエア銀座8F A.W.P ギャラリーゾーン</Name>
+    <Type>ギャラリー</Type>
+    <Address>〒104-0061 東京都中央区銀座5-7-2 三愛ドリームセンター 8F</Address>
+    <Phone>03-3289-1521</Phone>
+    <Fax></Fax>
+    <Access>東京メトロ銀座線・丸ノ内線・日比谷線銀座駅A2出口より徒歩2分</Access>
+    <Area areaId="ginza_marunouchi">銀座、丸の内</Area>
+    <OpeningHour>11:00:00</OpeningHour>
+    <ClosingHour>19:00:00</ClosingHour>
+    <DaysClosed mon="0" tue="1" wed="0" thu="0" fri="0" sat="0" sun="0" hol="0" />
+    <ScheduleDetails></ScheduleDetails>
+    <ScheduleNote></ScheduleNote>
+  </Venue>
+  <Media>2D: 写真</Media>
+  <Description><![CDATA[ギャラリーA.W.Pでは、7人の写真家によるゼラチンシルバープリント約30点で構成するベスト・オブ・モノクローム展を昨年に引き続いて開催いたします。モノクロームの写真制作は、光が生み出すシーンを漆黒の黒からハイエストライトまでの階調をどのように表現するかにあります。その制作における銀塩写真の醍醐味は作品の強さと、美しさにあります。今回の展示は、大型カメラによるアメリカの大地に取り組んだ大髙明、アンセル・アダムスで有名なヨセミテを撮影した岡田彰、身近な自然をテーマに光と影で表現する岡崎正人、ユージン・スミスの日常を捉えた石川武志、多くの写真家に影響を与えた鈴木清、ファッション界の巨匠ヘルムート・ニュートンや給水塔で有名なベルント・ベッヒャーの作品です。瑞々しい貴重なオリジナルプリントを鑑賞でき、展示作品の購入もできる数少ない機会です。]]></Description>
+  <Image src="http://www.tokyoartbeat.com/media/event/2016/8D76-30" width="30" />
+  <Image src="http://www.tokyoartbeat.com/media/event/2016/8D76-80" width="80" />
+  <Image src="http://www.tokyoartbeat.com/media/event/2016/8D76-170" width="170" />
+  <Karma>2.53842</Karma>
+  <Price free="0">510円</Price>
+  <DateStart>2016-10-27</DateStart>
+  <DateEnd>2016-11-27</DateEnd>
+  <ScheduleNote></ScheduleNote>
+  <DaysBeforeEnd>30</DaysBeforeEnd>
+  <PermanentEvent>0</PermanentEvent>
+  <Distance>433.05861469987</Distance>
+  <Datum>world</Datum>
+  <Latitude>35.67117791834</Latitude>
+  <Longitude>139.76463302941</Longitude>
+ </Event>
+
+ <Event xml:lang="ja" id="2016/56B4" href="http://www.tokyoartbeat.com/event/2016/56B4">
+  <Name>「都市のささやき ミキモトのウインドウ1974 to 2015」</Name>
+  <Venue href="http://www.tokyoartbeat.com/venue/283FFFCC">
+    <Name>松屋銀座 デザインギャラリー</Name>
+    <Type>店・デパート</Type>
+    <Address>〒104-8130　東京都中央区銀座3-6-1　松屋銀座7F</Address>
+    <Phone>03-3561-2572</Phone>
+    <Fax></Fax>
+    <Access>地下鉄銀座駅A12, A13出口</Access>
+    <Area areaId="ginza_marunouchi">銀座、丸の内</Area>
+    <OpeningHour>10:00:00</OpeningHour>
+    <ClosingHour>20:00:00</ClosingHour>
+    <DaysClosed mon="0" tue="0" wed="0" thu="0" fri="0" sat="0" sun="0" hol="0" />
+    <ScheduleDetails>mondays closinghour 19:30, tuesdays closinghour 19:30, fridays closinghour 21:00</ScheduleDetails>
+    <ScheduleNote></ScheduleNote>
+  </Venue>
+  <Media>2D: グラフィックデザイン</Media>
+  <Media>3D: ファッション</Media>
+  <Description><![CDATA[ショーウィンドウは、商品を人々に宣伝し、魅力を伝える有効な手段です。1870年に銀座レンガ街に登場したショーウインドウはその先駆けでした。以来、都市を華やかに彩る装置として、ショーウインドウは不可欠の存在となってゆきました。本展で取り上げる「ミキモト」のショーウィンドウもその一つです。ビルの一角にあって、小さな光を発していたミキモトのウィンドウデザインは、小さな宝石を美しく見せ、憧れを抱かせ、さらには欲望を掻き立ててきました。1974年から2015年に亘るミキモトのウィンドウデザインの意味は何だったのか、またそのデザイン性の高さや美しさはどこから来たのか。都市とともにあり続けるショーウィンドウの魅力を本展に集約いたしました。]]></Description>
+  <Image src="http://www.tokyoartbeat.com/media/event/2016/56B4-30" width="30" />
+  <Image src="http://www.tokyoartbeat.com/media/event/2016/56B4-80" width="80" />
+  <Image src="http://www.tokyoartbeat.com/media/event/2016/56B4-170" width="170" />
+  <Karma>2.52714</Karma>
+  <Price free="1">無料</Price>
+  <DateStart>2016-10-12</DateStart>
+  <DateEnd>2016-11-07</DateEnd>
+  <ScheduleNote></ScheduleNote>
+  <DaysBeforeEnd>10</DaysBeforeEnd>
+  <PermanentEvent>0</PermanentEvent>
+  <Distance>488.39101443283</Distance>
+  <Datum>world</Datum>
+  <Latitude>35.672260838507</Latitude>
+  <Longitude>139.7666938084</Longitude>
+ </Event>
+
+ <Event xml:lang="ja" id="2016/7260" href="http://www.tokyoartbeat.com/event/2016/7260">
+  <Name>「LINK OF LIFE - エイジングは未来だ  - 展」</Name>
+  <Venue href="http://www.tokyoartbeat.com/venue/1A828C37">
+    <Name>資生堂銀座ビル</Name>
+    <Type>その他</Type>
+    <Address>〒104-0061 東京都中央区銀座7-5-5</Address>
+    <Phone></Phone>
+    <Fax></Fax>
+    <Access>東京メトロ銀座線新橋駅1番出口より徒歩4分、東京メトロ銀座線・日比谷線・丸の内線銀座駅A2出口より徒歩4分、JR山手線・JR京浜東北線・東京メトロ有楽町線有楽町駅銀座口より徒歩6分</Access>
+    <Area areaId="ginza_marunouchi">銀座、丸の内</Area>
+    <OpeningHour>00:00:00</OpeningHour>
+    <ClosingHour>00:00:00</ClosingHour>
+    <DaysClosed mon="0" tue="0" wed="0" thu="0" fri="0" sat="0" sun="0" hol="0" />
+    <ScheduleDetails></ScheduleDetails>
+    <ScheduleNote>イベントにより異なる</ScheduleNote>
+  </Venue>
+  <Media>3D: プロダクト</Media>
+  <Media>参加型: トーク</Media>
+  <ExternalLink href="http://linkoflife.shiseidogroup.jp/" />
+  <Description><![CDATA[LINK OF LIFEは、資生堂によるデザインの新たな試みです。LINK OF LIFEは、サイエンス、テクノロジー、エンジニアリング、アートをデザインがつなぐ壮大な美の大実験室であり、活動に賛同する内外の科学者、研究者、デザイナー、アーティスト、企業や団体が互いの境界を飛び越え、つながり、今までにない発想や価値創造を共同でおこないます。
+第一会場: 資生堂銀座ビル 花椿ホール 1〜3F　10/28〜11/3
+第二会場: SHISEIDO THE GINZA 10/20〜11/15
+[関連イベント]
+スペシャルクロストーク「(仮)LINK OF LIFE とは？サイエンス、デザイン、エイジング、未来の美」
+日時: 11月3日(木・祝) 17:00〜18:00
+会場: 資生堂銀座ビル2F(席数 約50席)
+登壇者: 藤原大(LINK OF LIFE クリエイティブ・ディレクター、藤原大デザイン事務所)、紺野登(Future Center Alliance Japan代表)、岩井恒彦(LINK OF LIFE プロジェクト代表、資生堂代表取締役執行役員副社長)
+モデレーター: 藤原邦一(LINK OF LIFE プラニングアドバイザー、藤原プロデュース代表)、石井美加(LINK OF LIFE プロデューサー、資生堂経営戦略部)
+
+クロストーク「エイジングは未来だ」
+日時: 10月29日(土) 15:00〜18:00、10月30日(日) 15:00〜18:30
+会場: 資生堂銀座ビル1階 エントランスホール(席数 約20席)
+
+日時: 11月3日(木・祝) 14:00〜18:00
+会場: 資生堂銀座ビル２階(席数 約50席)
+
+ギャラリーツアー
+日時: 10月28日(金)、31日(月)、11月1日(火)、2日(水) 18:00〜
+集合場所: 資生堂銀座ビル1階エントランスホール
+所要時間: 30〜40分
+定員: 15人
+参加無料
+
+※関連イベント詳細については公式ホームページをご確認下さい。
+
+
+]]></Description>
+  <Image src="http://www.tokyoartbeat.com/media/event/2016/7260-30" width="30" />
+  <Image src="http://www.tokyoartbeat.com/media/event/2016/7260-80" width="80" />
+  <Image src="http://www.tokyoartbeat.com/media/event/2016/7260-170" width="170" />
+  <Karma>6.66246</Karma>
+  <Price free="0"></Price>
+  <DateStart>2016-10-20</DateStart>
+  <DateEnd>2016-11-15</DateEnd>
+  <ScheduleNote>開館時間: 11:00〜20:00</ScheduleNote>
+  <DaysBeforeEnd>18</DaysBeforeEnd>
+  <PermanentEvent>0</PermanentEvent>
+  <Distance>497.694497397</Distance>
+  <Datum>world</Datum>
+  <Latitude>35.669968993103</Latitude>
+  <Longitude>139.76151034441</Longitude>
+ </Event>
+
+</Events>
